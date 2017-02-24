@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/avadolearning/bls-sdk-php.git"
+        }
+    ],
+
+    "require": {
+        "avadolearning/bls-sdk-php": "dev-publish"
+    }
+}
